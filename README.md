@@ -94,12 +94,9 @@ google-generativeai==0.7.2
 
 5. **URL pública generada:**
    ```
-   https://<tu-app>.azurewebsites.net
+   https://mortalidad-colombia-2019.azurewebsites.net
    ```
-   Reemplaza `<tu-app>` por el nombre de tu App Service en Azure.
-
----
-
+  
 ## 8.6 Software utilizado
 
 | Herramienta | Uso |
