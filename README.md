@@ -1,4 +1,17 @@
-# 🏥 Mortalidad en Colombia 2019
+`<img width="1526" height="631" alt="Captura de pantalla 2026-05-16 202824" src="https://github.com/user-attachments/assets/61d73045-bcfa-4b90-a687-4e63c6290719" />
+<img width="1860" height="861" alt="Captura de pantalla 2026-05-16 202814" src="https://github.com/user-attachments/assets/3f6a8a3e-2faa-41ba-b7d3-6645b1047262" />
+<img width="1853" height="870" alt="Captura de pantalla 2026-05-16 203106" src="https://github.com/user-attachments/assets/08d8283e-5b99-4d1e-a2a3-1dc02f945b11" />
+<img width="1852" height="881" alt="Captura de pantalla 2026-05-16 203050" src="https://github.com/user-attachments/assets/e64af6a1-b01e-4658-b0eb-9c46cfbd4785" />
+<img width="1857" height="871" alt="Captura de pantalla 2026-05-16 203029" src="https://github.com/user-attachments/assets/dc6d1147-dc54-40e8-8bae-df6be8a42bfc" />
+<img width="1861" height="877" alt="Captura de pantalla 2026-05-16 202954" src="https://github.com/user-attachments/assets/24db05ab-1fda-4936-a1cb-477eda4e864d" />
+<img width="1855" height="889" alt="Captura de pantalla 2026-05-16 202938" src="https://github.com/user-attachments/assets/407f93c0-1c6a-49a9-8607-e3fbdbd8a583" />
+<img width="1852" height="871" alt="Captura de pantalla 2026-05-16 202851" src="https://github.com/user-attachments/assets/b5494a82-2ef8-4c46-9638-be8d378fdcd9" />
+<img width="1866" height="875" alt="Captura de pantalla 2026-05-16 202837" src="https://github.com/user-attachments/assets/9b5f71f8-163a-4c7e-9f49-ef7556abfdf4" />
+<img width="1851" height="861" alt="Captura de pantalla 2026-05-16 203135" src="https://github.com/user-attachments/assets/5a6fbdc0-6ee4-4f58-b09f-0ffc6364395f" />
+<img width="1856" height="864" alt="Captura de pantalla 2026-05-16 203123" src="https://github.com/user-attachments/assets/94221cd4-c182-4609-9943-5858bbcab15c" />
+<img width="1864" height="869" alt="Captura de pantalla 2026-05-16 202722" src="https://github.com/user-attachments/assets/42c5edea-acdd-4ff3-bda9-2a4e64e66d84" />
+<img width="1859" height="858" alt="Captura de pantalla 2026-05-16 202755" src="https://github.com/user-attachments/assets/1d814cd4-4137-45a0-9ec2-1cc9fc2408ce" />
+`# 🏥 Mortalidad en Colombia 2019
 ### Análisis interactivo mediante aplicación web en Streamlit
 
 > **Proyecto Final — Herramientas Computacionales para la Interpretación de Resultados**  
