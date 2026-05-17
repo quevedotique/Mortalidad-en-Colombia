@@ -2,7 +2,7 @@
 ### Análisis interactivo mediante aplicación web en Streamlit
 
 > **Proyecto Final — Herramientas Computacionales para la Interpretación de Resultados**  
-> Universidad Cooperativa de Colombia · Docente: Cristian Duney Bermúdez Quintero · Mayo 16 de 2026
+> Universidad Cooperativa de Colombia · Docente: Cristian Duney Bermúdez Quintero · Mayo 2026
 
 ---
 
