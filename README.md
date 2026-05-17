@@ -2,13 +2,13 @@
 ### Análisis interactivo mediante aplicación web en Streamlit
 
 > **Proyecto Final — Herramientas Computacionales para la Interpretación de Resultados**  
-> Universidad Cooperativa de Colombia · Docente: Cristian Duney Bermúdez Quintero · Mayo 2026
+> Universidad Cooperativa de Colombia · Docente: Cristian Duney Bermúdez Quintero · Mayo 16 de 2026
 
 ---
 
 ## 8.1 Introducción del proyecto
 
-Esta aplicación web interactiva permite explorar, visualizar e interpretar los datos de mortalidad no fetal en Colombia para el año 2019, publicados por el DANE (Estadísticas Vitales). Integra tres fuentes de datos oficiales y combina visualizaciones dinámicas con un módulo de Inteligencia Artificial (Google Antigravity / Gemini 1.5 Flash) que actúa como **epidemiólogo virtual**, generando hipótesis, predicciones de tendencias y clasificaciones de riesgo automáticas.
+Esta aplicación web interactiva permite explorar, visualizar e interpretar los datos de mortalidad no fetal en Colombia para el año 2019, publicados por el DANE (Estadísticas Vitales). Integra tres fuentes de datos oficiales y combina visualizaciones dinámicas con un módulo de Inteligencia Artificial (Google Antigravity / Gemini 1.5 Flash) que actúa como **epidemiólogo virtual**, generando hipótesis, predicciones de tendencias y clasificaciones de riesgo automáticas, ademas viene con voz integrada para una lectura mas rapida y dinamica.
 
 ---
 
