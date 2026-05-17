@@ -112,6 +112,8 @@ google-generativeai==0.7.2
 | **GitHub** | Control de versiones y CI/CD |
 | **Azure App Service** | Despliegue en la nube |
 
+| **Azure App Service** | Para voz implementada en la web |
+
 ---
 
 ## 8.7 Visualizaciones e interpretación de resultados
